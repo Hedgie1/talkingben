@@ -13,6 +13,9 @@ Bot is running on discord.js v13 version.
 - Run the `installation.bat` file.
 - After installing, edit the `config.json` file with your bot token and status you want to have on your bot.
 - Run the bot using `run.bat` file!
+- Invite the bot using this link:
+https://discord.com/oauth2/authorize?client_id=CLIENT_ID&permissions=8&scope=applications.commands%20bot
+⬆️⬆️⬆️ Edit the CLIENT_ID with your bot's ID. (Can be found on the Discord Developers page)
 
 ## YOUR NODE.JS VERSION MUST BE ABOVE V16! OTHERWISE THE BOT WILL NOT WORK!
 
